@@ -10,4 +10,4 @@ numArray.append(50)
 numArray.insert(0, 10)
 
 for item in numArray:
-  print item
+  print(item)

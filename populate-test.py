@@ -6,4 +6,4 @@ test.test('populate.py', [0], [[]])
 test.test('populate.py', [1], [[0]])
 test.test('populate.py', [-2], [[]])
 
-print 'Well done'
+print('Well done')

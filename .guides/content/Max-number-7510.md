@@ -1,4 +1,4 @@
-{Run code}(python run-user.py max.py)
+{Run code}(python3 run-user.py max.py)
 
 {Check It!|assessment}(test-1116072670)
 

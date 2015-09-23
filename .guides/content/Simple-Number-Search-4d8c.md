@@ -1,4 +1,4 @@
-{Run code}(python run-user.py numsearch.py)
+{Run code}(python3 run-user.py numsearch.py)
 
 {Check It!|assessment}(test-1147907621)
 

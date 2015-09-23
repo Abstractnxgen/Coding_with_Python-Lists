@@ -1,4 +1,4 @@
-{Run code}(python run-user.py populate.py)
+{Run code}(python3 run-user.py populate.py)
 
 {Check It!|assessment}(test-3847250861)
 

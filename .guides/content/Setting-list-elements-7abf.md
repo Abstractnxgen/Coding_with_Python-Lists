@@ -20,7 +20,7 @@ numArray = []
 ## Run the code
 Take a look at the code on the left. 
 
-{Run code}(python run-user.py ./1-lists/example2.py)
+{Run code}(python3 run-user.py ./1-lists/example2.py)
 
 This shows how you 
 

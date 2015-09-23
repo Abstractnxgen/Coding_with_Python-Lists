@@ -1,4 +1,4 @@
-{Run code}(python run-user.py sum.py)
+{Run code}(python3 run-user.py sum.py)
 
 {Check It!|assessment}(test-3916901719)
 
