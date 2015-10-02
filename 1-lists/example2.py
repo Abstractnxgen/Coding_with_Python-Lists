@@ -1,13 +1,10 @@
 
-# Create some lists
-unusedArray = [1,2,3,4]
-unusedStrArray = [ 'Alice', 'Shahneila', 'Bob', 'Tariq' ]
-numArray = []
+# create a list
+aList = [ 'Alice', 'Shahneila', 'Bob', 'Tariq' ]
 
-# Append an item to the empty list
-numArray.append(50)
-# Insert some data at the beggining
-numArray.insert(0, 10)
+print(aList)
 
-for item in numArray:
-  print(item)
+# change the second element
+aList[1] = 'Sean'
+
+print(aList)

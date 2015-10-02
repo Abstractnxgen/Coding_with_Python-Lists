@@ -86,6 +86,50 @@
    "teacherOnly": false
   },
   {
+   "id": "c19bbd7b-421d-8a97-e912-37dc68a7b120",
+   "title": "Append and insert",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "1-lists/append_insert.py",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Append-and-insert-c19b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "6d5420ca-70e0-c945-78b3-649ca933ee4",
+   "title": "List length",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "1-lists/length.py",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/List-length-6d54.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
    "id": "907f551-968f-cce8-a51b-8bf9686ae",
    "title": "Looping with range",
    "files": [
@@ -130,8 +174,25 @@
    "teacherOnly": false
   },
   {
+   "id": "f9d0614b-94f4-d39c-be02-6b1368709d95",
+   "title": "Challenges",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenges-f9d0.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
    "id": "97098570-1fad-f0c-c7df-dff5704285f9",
-   "title": "Challenge (list sum)",
+   "title": "List sum",
    "files": [
     {
      "path": "#tabs",
@@ -146,25 +207,8 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Challenge--list-sum--9709.md",
+   "content-file": ".guides/content/List-sum-9709.md",
    "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
-   "id": "f9d0614b-94f4-d39c-be02-6b1368709d95",
-   "title": "Challenges",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    }
-   ],
-   "layout": "",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Challenges-f9d0.md",
-   "chapter": true,
    "reset": [],
    "teacherOnly": false
   },

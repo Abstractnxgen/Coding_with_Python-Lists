@@ -1,31 +1,16 @@
-You can easily set an list element with the same techniques.
+## Defining a list
 
-`numArray[4] = 100` sets the 5th element of list called `numArray` to `100`.
+If you want to create a list and you know the elements already then you can do it like this.
 
-## Defining an list
-If you want to create a list and you know the elements already (which is not that often the case) then you can do it like this.
-
-```python
-numArray = [1, 55, 3, 16]
-```
-
-But often you will not have any elements to start with and will want to add them later. 
-
-In this case, you should create an empty list like this first.
+## Changing element values
 
 ```python
-numArray = []
+aList = [ 'Alice', 'Shahneila', 'Bob', 'Tariq' ]
 ```
 
-## Run the code
-Take a look at the code on the left. 
+With an existing list you can directly change any of its elements `aList[1] = 'Sean'` sets the 2nd element of the list `aList` to `'Sean'`. List indexes start at `0`. Run the code on the left by clicking the button below to see this in action.
 
 {Run code}(python3 run-user.py ./1-lists/example2.py)
 
-This shows how you 
 
-1. Define a new list
-1. Assign values to list elements (note we are not assigning values to *contiguous* elements)
-1. Show each list element
-
-When you run the code, notice how some of the elements are *undefined*. This is because we added two elements.
+The next section will show you how to append new elements to the end of the list, or insert new elemenets at specific indexes.
