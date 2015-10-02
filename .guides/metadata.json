@@ -86,6 +86,50 @@
    "teacherOnly": false
   },
   {
+   "id": "907f551-968f-cce8-a51b-8bf9686ae",
+   "title": "Looping with range",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "1-lists/for_in_range.py",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Looping-with-range-907f.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "473c708-4909-d9cd-b82d-ad416a99d368",
+   "title": "Easier looping",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "1-lists/for_in_list.py",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Easier-looping-473c.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
    "id": "97098570-1fad-f0c-c7df-dff5704285f9",
    "title": "Challenge (list sum)",
    "files": [
