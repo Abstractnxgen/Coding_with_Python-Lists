@@ -1,16 +1,17 @@
-{Run code}(python3 run-user.py sum.py)
-
 {Check It!|assessment}(test-3916901719)
 
 |||guidance
 ### Solution
 ```python
-input0 = input0([1, 3, 5, 7, 9])
+# Get our list from the command line
+numbers = sys.argv[2]
+
+# Your code goes here
 total = 0
 
-for i in input0:
+for i in numbers:
   total = total + i
 
-output(total)
+print(total)
 ```
 |||

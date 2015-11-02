@@ -1,16 +1,17 @@
-{Run code}(python3 run-user.py populate.py)
-
 {Check It!|assessment}(test-3847250861)
 
 |||guidance
 ## Solution
 ```python
-input0 = input0(8)
+# Get N from the command line
+N= sys.argv[2]
+
+# Your code goes here
 list = []
 
-for i in range(0, input0):
+for i in range(0, N):
   list.append(i*10)
 
-output(list)
+print(list)
 ```
 |||

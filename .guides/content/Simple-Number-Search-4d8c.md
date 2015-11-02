@@ -1,24 +1,29 @@
-{Run code}(python3 run-user.py numsearch.py)
-
 {Check It!|assessment}(test-1147907621)
 
 |||guidance
 ## Solution
 ```python
-input0 = input0([1,3,11,42,12])
-input1 = input1(42)
+# Get our input from the command line
+numbers= sys.argv[2]
+N= sys.argv[3]
 
-found = 0
+# Write your code below
 
-for i in range(0, len(input0)): 
-  if input0[i] == input1:
-    found = i
-    # The break statement exits the loop
-    break
+index= 0       # an index counter for the while loop
+found= False   # a check to break out early once found
 
-if found == 0:
-  output(-1)
-else:
-  output(found)
+# loop until ew find the value or we are out of numbers
+while (not found and index < len(numbers)):
+  if numbers[index] == N:  # It this one it?
+    found= True            # Yes - we are done
+  else:
+    index = index + 1      # No - move along to the next index
+    
+if not found:      # Did the loop find it?
+  print(-1)        # No - answer is -1
+else:              
+  print(index)     # Yes - answer is the index we found
+
+
 ```
 |||

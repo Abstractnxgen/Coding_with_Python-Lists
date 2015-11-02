@@ -1,6 +1,6 @@
 When working with lists you often need to know how many elements are in the list, or simply put, its lenght!
 
-{Run code}(python3 run-user.py ./1-lists/length.py)
+{Run code}(python3 run-user.py content/1-lists/length.py)
 
 ## len()
 

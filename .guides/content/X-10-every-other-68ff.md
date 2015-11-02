@@ -1,17 +1,17 @@
-{Run code}(python3 run-user.py x10.py)
-
 {Check It!|assessment}(test-4030970452)
 
 |||guidance
 ### Solution
 ```python
-input0 = input0([1, 2, 3, 4, 5, 6])
-input1 = input1(5)
-input2 = input2(3)
+# Get our input from the command line
+numbers= sys.argv[2]
+M= sys.argv[3]
+N= sys.argv[4]
 
-for i in range(input2 - 1, len(input0), input2):
-  input0[i] = input0[i] * input1
+# Your code goes here
+for i in range(N - 1, len(numbers), N):
+  numbers[i] = numbers[i] * M
 
-output(input0)
+print(numbers)
 ```
 |||
