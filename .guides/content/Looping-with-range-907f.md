@@ -2,7 +2,7 @@ There are two main ways for looping over lists. The first way covered in this se
 
 ## for .. in range
 
-{Run code}(python3 run-user.py content/1-lists/for_in_range.py)
+{Run code}(python3 content/1-lists/for_in_range.py)
 
 The `len()` function returns the length of the list supplied as an argument.
 

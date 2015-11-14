@@ -4,9 +4,16 @@
 ## Solution
 ```python
 # Get our input from the command line
-numbers= sys.argv[2]
-N= sys.argv[3]
+import sys
+N= int(sys.argv[2])
 
+# Convert the list of strings into integers
+numbers= []
+for i in sys.argv[1].split(","):
+  if(i.isdigit()):
+    numbers.append(int(i))
+
+                   
 # Write your code below
 
 index= 0       # an index counter for the while loop

@@ -4,13 +4,14 @@
 ### Solution
 ```python
 # Get our list from the command line
-numbers = sys.argv[2]
+import sys
+numbers = sys.argv[1].split(",")
 
 # Your code goes here
 total = 0
 
 for i in numbers:
-  total = total + i
+  total = total + int(i)
 
 print(total)
 ```

@@ -1,4 +1,5 @@
 
+# create an empty list
 numList = []
 
 # append some items to the empty list

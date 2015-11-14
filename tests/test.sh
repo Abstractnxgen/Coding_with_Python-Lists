@@ -1,3 +1,11 @@
+#!/bin/bash
+. /home/codio/workspace/tests/python-test-lib.sh
+
+start_python_test 'test.py'
+end_python_test
+#
+#
+#
 
 import sys
 import re

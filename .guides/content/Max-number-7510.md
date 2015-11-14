@@ -4,7 +4,9 @@
 ### Solution
 ```python
 # Get our numbers from the command line
-numbers= sys.argv[2]
+import sys
+numbers= sys.argv[1].split(',')
+numbers= [int(i) for i in numbers]
 
 # Your code goes here
 max = 0

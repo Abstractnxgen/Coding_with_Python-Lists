@@ -1,5 +1,8 @@
 
 # Get our input from the command line
-numbers = sys.argv[2]
+import sys
+numbers = sys.argv[1].split(',')
+for i in range(0,len(numbers)):
+  numbers[i]= int(numbers[i])
 
 # Your code goes here

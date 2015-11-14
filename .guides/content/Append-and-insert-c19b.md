@@ -1,6 +1,6 @@
 When working with an empty list, like `numList` in the code window on the left, we need a way of inserting new elemenets. 
 
-{Run code}(python3 run-user.py content/1-lists/append_insert.py)
+{Run code}(python3 content/1-lists/append_insert.py)
 
 ## append()
 

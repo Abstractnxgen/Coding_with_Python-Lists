@@ -2,7 +2,7 @@ In the previous section we covered looping over lists using the `range()` and `l
 
 ## for ... in list
 
-{Run code}(python3 run-user.py content/1-lists/for_in_list.py)
+{Run code}(python3 content/1-lists/for_in_list.py)
 
 We can use the same method for looping over a range of indexes to directly loop over a list for example:
 
