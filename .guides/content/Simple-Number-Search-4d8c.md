@@ -27,10 +27,9 @@ while (not found and index < len(numbers)):
     index = index + 1      # No - move along to the next index
     
 if not found:      # Did the loop find it?
-  print(-1)        # No - answer is -1
+  print(str(-1))   # No - answer is -1
 else:              
   print(index)     # Yes - answer is the index we found
-
 
 ```
 |||
