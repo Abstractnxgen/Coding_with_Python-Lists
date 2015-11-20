@@ -1,4 +1,4 @@
-When working with an empty list, like `numList` in the code window on the left, we need a way of inserting new elemenets. 
+When working with an empty list, like `numList` in the code window on the left, we need a way of inserting new elements. 
 
 {Run code}(python3 content/1-lists/append_insert.py)
 
@@ -23,7 +23,7 @@ The code above will output
 
 ## insert()
 
-If you want to add elemets at a specific location use a list's `insert(index, element)` method. The method inserts the element at the specific index in the list.
+If you want to add elements at a specific location use a list's `insert(index, element)` method. The method inserts the element at the specific index in the list.
 
 ```python
 numList.insert(2, 3)

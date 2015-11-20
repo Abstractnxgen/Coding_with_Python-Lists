@@ -1,1 +1,1 @@
-Here come the rest of the challenges for lists.
+Here come the challenges for lists.
