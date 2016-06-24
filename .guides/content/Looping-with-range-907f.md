@@ -1,4 +1,4 @@
-There are two main ways for looping over lists. The first way covered in this section uses the `len()` and `range()` functions to create a list of indexes to loop over. The indexes are then used to get the content from your original list.
+There are two main ways for looping over lists. The first way uses the `len()` and `range()` functions to create a list of indexes to loop over. The indexes are then used to get the content from your original list.
 
 ## for .. in range
 
@@ -6,7 +6,7 @@ There are two main ways for looping over lists. The first way covered in this se
 
 The `len()` function returns the length of the list supplied as an argument.
 
-With the length we now know up to where we must iterate. Using the `range(start, stop)` function we can create a range between the value of `start` and `stop` for example:
+With the length we now know up to where we must iterate. Using the `range(start, stop)` function we can create a range between the value of `start` and `stop`. For example:
 
 ```python
 myList = [1,3,5,7,9]
@@ -27,7 +27,7 @@ for i in aRange:
   print(myList[i])
 ```
 
-Each `i` will be used as an index to reference the items in `myList` for example:
+Each `i` will be used as an index to reference the items in `myList`. For example:
 
 ```python
 i = 0
@@ -39,7 +39,7 @@ i = 1
 myList[i]
 ```
 
-We can also combine all the steps in to one line to make it easier to read.
+We can also combine all the steps into one line to make it easier to read:
 
 ```python
 myList = [1,3,5,7,9]

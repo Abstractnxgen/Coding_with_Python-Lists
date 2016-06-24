@@ -1,3 +1,3 @@
-Well done for getting to the end of this Unit.
+Well done for completing this unit on lists.
 
-We have now learned about lists. You will find that lists are used frequently in future Units. They are a useful tool to have at your disposal.
+You will find that lists are frequently used in future units, they are a very helpful tool to use when you are coding.

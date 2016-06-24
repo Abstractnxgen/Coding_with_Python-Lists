@@ -1,1 +1,1 @@
-Here come the challenges for lists.
+Test yourself on what you have learned about lists so far by completing the following challenges.

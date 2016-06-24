@@ -1,3 +1,3 @@
-This Unit introduces you to Lists written in Python. 
+This Unit introduces you to lists written in Python. 
 
-As usual, you will find some theory and challenges.
+You will learn about the theory behind using lists and you will also complete some practical challenges to practise your new skills.
