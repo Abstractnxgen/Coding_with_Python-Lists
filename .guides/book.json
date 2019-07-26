@@ -1,0 +1,113 @@
+{
+ "name": "Coding_with_Python-Lists",
+ "children": [
+  {
+   "title": "Lists",
+   "id": "e942483c-b1f4-42b7-e597-33caf2e0e0",
+   "pageId": "e942483c-b1f4-42b7-e597-33caf2e0e0",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Experiments",
+     "id": "1e46398d-50ea-d061-25f0-26744848c984",
+     "pageId": "1e46398d-50ea-d061-25f0-26744848c984",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Lists explained",
+   "id": "82f151df-4bd8-bd56-f3d1-1de4730cbf61",
+   "pageId": "82f151df-4bd8-bd56-f3d1-1de4730cbf61",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Setting list elements",
+     "id": "7abf3cf6-9779-3cc3-9776-696bb7a523e6",
+     "pageId": "7abf3cf6-9779-3cc3-9776-696bb7a523e6",
+     "type": "page"
+    },
+    {
+     "title": "Append and insert",
+     "id": "c19bbd7b-421d-8a97-e912-37dc68a7b120",
+     "pageId": "c19bbd7b-421d-8a97-e912-37dc68a7b120",
+     "type": "page"
+    },
+    {
+     "title": "List length",
+     "id": "6d5420ca-70e0-c945-78b3-649ca933ee4",
+     "pageId": "6d5420ca-70e0-c945-78b3-649ca933ee4",
+     "type": "page"
+    },
+    {
+     "title": "Looping with range",
+     "id": "907f551-968f-cce8-a51b-8bf9686ae",
+     "pageId": "907f551-968f-cce8-a51b-8bf9686ae",
+     "type": "page"
+    },
+    {
+     "title": "Easier looping",
+     "id": "473c708-4909-d9cd-b82d-ad416a99d368",
+     "pageId": "473c708-4909-d9cd-b82d-ad416a99d368",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Challenges",
+   "id": "f9d0614b-94f4-d39c-be02-6b1368709d95",
+   "pageId": "f9d0614b-94f4-d39c-be02-6b1368709d95",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "List sum",
+     "id": "97098570-1fad-f0c-c7df-dff5704285f9",
+     "pageId": "97098570-1fad-f0c-c7df-dff5704285f9",
+     "type": "page"
+    },
+    {
+     "title": "Populate a new list",
+     "id": "e8b16add-98fa-34d2-4852-8dc4961d9576",
+     "pageId": "e8b16add-98fa-34d2-4852-8dc4961d9576",
+     "type": "page"
+    },
+    {
+     "title": "Short string list",
+     "id": "19709f2d-ba55-7a50-a1a3-27b05a18513b",
+     "pageId": "19709f2d-ba55-7a50-a1a3-27b05a18513b",
+     "type": "page"
+    },
+    {
+     "title": "Simple number search",
+     "id": "4d8cc68b-670f-9911-87a8-644c5fa904",
+     "pageId": "4d8cc68b-670f-9911-87a8-644c5fa904",
+     "type": "page"
+    },
+    {
+     "title": "Max number",
+     "id": "7510d998-2f84-be95-af18-be75d07f94",
+     "pageId": "7510d998-2f84-be95-af18-be75d07f94",
+     "type": "page"
+    },
+    {
+     "title": "X 10 every other",
+     "id": "68ffe9c-beb-64ff-22d9-6b07f098ec1",
+     "pageId": "68ffe9c-beb-64ff-22d9-6b07f098ec1",
+     "type": "page"
+    },
+    {
+     "title": "1 in, 2 out",
+     "id": "38373b23-a81-d9b3-7fcd-33fad4952452",
+     "pageId": "38373b23-a81-d9b3-7fcd-33fad4952452",
+     "type": "page"
+    },
+    {
+     "title": "All done!!",
+     "id": "8bcfecc4-7aae-8be7-6902-d15967218fc6",
+     "pageId": "8bcfecc4-7aae-8be7-6902-d15967218fc6",
+     "type": "page"
+    }
+   ]
+  }
+ ]
+}
