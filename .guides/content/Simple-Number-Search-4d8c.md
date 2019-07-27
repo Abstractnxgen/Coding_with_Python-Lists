@@ -19,7 +19,7 @@ for i in sys.argv[1].split(","):
 index= 0       # an index counter for the while loop
 found= False   # a check to break out early once found
 
-# loop until ew find the value or we are out of numbers
+# loop until we find the value or we are out of numbers
 while (not found and index < len(numbers)):
   if numbers[index] == N:  # It this one it?
     found= True            # Yes - we are done
